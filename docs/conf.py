@@ -81,7 +81,7 @@ html_css_files = [
 
 # index path
 
-root_doc = 'source/index'
+# root_doc = 'source/index'
 
 
 # Multi-language
