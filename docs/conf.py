@@ -79,6 +79,9 @@ html_css_files = [
 #     'https://ezblock.cc/readDocFile/readTheDoc/src/css/xterm.css',
 # ]
 
+# index path
+
+root_doc = ['source/']
 
 
 # Multi-language
@@ -87,6 +90,8 @@ language = 'en' # Before running make html, set the language.
 locale_dirs = ['locale/'] # .po files for other languages are placed in the locale/ folder.
 
 gettext_compact = False # Support for generating the contents of the folders inside source/ into other languages.
+
+
 
 # open link in a new window
 
