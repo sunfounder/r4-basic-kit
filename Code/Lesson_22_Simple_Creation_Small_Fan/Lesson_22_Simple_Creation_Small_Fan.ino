@@ -4,9 +4,9 @@
  * Pressing it once will cause it to rotate slowly,
  * while pressing it three times will cause it to rotate quickly, and pressing it four times will cause it to stop.
  ****************************************************************/
-//Email:support@sunfounder.com
+//Email:service@sunfounder.com
 //Website:www.sunfounder.com
-//2015.5.7
+
 // constants won't change. They're used here to 
 // set pin numbers:
 const int buttonPin = 2;    // the number of the pushbutton pin

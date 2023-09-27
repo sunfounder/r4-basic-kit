@@ -1,7 +1,7 @@
 /************************************************/
 // Name: Servo
 // Function:  The servo will rotate from 0 to 180 angle,then turn back to 0.
-//Email: support@sunfounder.com
+//Email: service@sunfounder.com
 //Website: www.sunfounder.com
 /************************************************/
 #include <Servo.h>

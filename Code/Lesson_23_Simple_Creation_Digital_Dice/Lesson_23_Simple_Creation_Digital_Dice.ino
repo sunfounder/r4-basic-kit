@@ -4,9 +4,9 @@
  * When the button is pressed, the jumping will slow down until it stops three seconds later.
  * If the button is pressed again, the process will repeat.
  *************************************************/
-//Email:support@sunfounder.com
+//Email:service@sunfounder.com
 //Website:www.sunfounder.com
-//2015.5.7
+
 /*********************************************************/
 const int latchPin = 12;//Pin connected to ST_CP of 74HC595
 const int clockPin = 8;//Pin connected to SH_CP of 74HC595 

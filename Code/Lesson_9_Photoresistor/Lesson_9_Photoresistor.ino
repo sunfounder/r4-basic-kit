@@ -4,7 +4,7 @@
    If you increase the light intensity, you will see more LEDs light up.
    When you place it in dark environment, all the LEDs will go out.
  *********************************************/
-//Email: support@sunfounder.com
+//Email: service@sunfounder.com
 //Website: www.sunfounder.com
 
 const int NbrLEDs = 8;//8 leds

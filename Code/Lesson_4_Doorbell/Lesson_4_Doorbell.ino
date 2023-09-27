@@ -1,8 +1,7 @@
 //Doorbell
 //Turns on and off a buzzer use the button.
-//Email:support@sunfounder.com
+//Email:service@sunfounder.com
 //Website:www.sunfounder.com
-//2018.12.20
 /**********************************/
 const int buttonPin = 2; //the button connect to pin2
 const int buzzerPin = 8;//the led connect to pin8

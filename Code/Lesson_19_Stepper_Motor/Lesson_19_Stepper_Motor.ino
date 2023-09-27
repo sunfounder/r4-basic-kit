@@ -1,9 +1,8 @@
 /***************************************************
 //StepperTest
 //Description: You should see the rocker arm of the stepper motor spin clockwise and counterclockwise alternately. 
-//Email:support@sunfounder.com
+//Email:service@sunfounder.com
 //Website:www.sunfounder.com
-//2018/12/28
 **********************************************/
 
 #include <Stepper.h>   //include a head file

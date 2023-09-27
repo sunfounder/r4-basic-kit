@@ -1,8 +1,8 @@
 //74HC595
 //You should now be able to see the 7-segment display cycle from 0 to F
-//Email:support@sunfounder.com
+//Email:service@sunfounder.com
 //Website:www.sunfounder.com
-//2015.5.7
+
 const int STcp = 12;//Pin connected to ST_CP of 74HC595
 const int SHcp = 8;//Pin connected to SH_CP of 74HC595 
 const int DS = 11; //Pin connected to DS of 74HC595 

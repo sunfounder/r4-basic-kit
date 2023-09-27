@@ -1,8 +1,8 @@
 //Controlling led by potentiometer
 //Rotate the shaft of the potentiometer and you should see the luminance of the LED change.
-//Email:support@sunfounder.com
+//Email:service@sunfounder.com
 //Website:www.sunfounder.com
-//2015.5.7
+
 /******************************************/
 const int analogPin = 0;//the analog input pin attach to
 const int ledPin = 9;//the led attach to

@@ -2,7 +2,7 @@
  * name:Building a Quiz Buzzer System
  * function: first press button 4 to start. If you press button 1 first, you will see the corresponding LED light up and the buzzer will beep. Then press button 4 again to reset before you press other buttons.
  **********************************/
-//Email:support@sunfounder.com
+//Email:service@sunfounder.com
 //Website:www.sunfounder.com
 
 #define button1 2  //the number of the button 1

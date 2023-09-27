@@ -1,7 +1,7 @@
 //tilt switch
 //tilt the switch, and the LED attached to pin 13 on SunFounder Uno board will light up.
 //tilt switch attach to pin2
-//Email: support@sunfounder.com
+//Email: service@sunfounder.com
 //Website: www.sunfounder.com
 /*****************************************/
 const int ledPin = 13;//the led attach to

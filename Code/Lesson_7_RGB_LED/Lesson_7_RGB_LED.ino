@@ -1,8 +1,8 @@
 //RGB LED
 //The RGB LED will appear red, green, and blue first, then red, orange, yellow, green, blue, indigo, and purple.
-//Email:support@sunfounder.com
+//Email:service@sunfounder.com
 //Website:www.sunfounder.com
-//2015.5.7
+
 /*************************************************************************/
 const int redPin = 11;  // R petal on RGB LED module connected to digital pin 11 
 const int greenPin = 10;  // G petal on RGB LED module connected to digital pin 10 

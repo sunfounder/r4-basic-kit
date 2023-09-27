@@ -1,8 +1,8 @@
 //7-Segment Display
 //You should now see the 7-segment display cycle from 0 to F
-//Email:support@sunfounder.com
+//Email:service@sunfounder.com
 //Website:www.sunfounder.com
-//2015.5.7
+
 const int a=7; //a of 7-segment attach to digital pin 7
 const int b=6; //b of 7-segment attach to digital pin 6
 const int c=5; //c of 7-segment attach to digital pin 5

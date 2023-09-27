@@ -1,8 +1,8 @@
 //Blinking_LED
 //turn on the LED for half a second,then off for half a second,repeatedly
-//support@sunfounder.com
+//service@sunfounder.com
 //www.sunfounder.com
-//2015.5.7
+
 /************************************************/
 const int ledPin = 9;//the number of the LED pin
 /************************************************/

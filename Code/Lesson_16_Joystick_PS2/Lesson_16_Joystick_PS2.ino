@@ -2,7 +2,7 @@
    Name:Joystick PS2
    Description: the coordinates of X and Y axes displayed on Serial Monitor will change accordingly.
    press the button, and the coordinate of Z=0 will also be displayed.
-   Email:support@sunfounder.com
+   Email:service@sunfounder.com
    Website:www.sunfounder.com
  ********************************************************/
 
