@@ -80,7 +80,6 @@ This code uses 6 nested if statements.
 
 **Alarm() function**
 
-Translated with www.DeepL.com/Translator (free version)
 
 .. code-block:: arduino
 

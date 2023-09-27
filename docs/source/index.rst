@@ -11,12 +11,18 @@ Additionally, the Arduino Uno R4 Basic Kit provides access to datasheets for all
 
 Whether you are a beginner or an experienced maker, the Arduino Uno R4 Basic Kit is an excellent choice to unleash your creativity, expand your knowledge in electronics and programming, and embark on countless exciting projects.
 
-If you want to learn another projects which we don’t have, please feel free to send Email and we will update to our online tutorials as soon as possible, any suggestions are welcomed.
-Here is the Email: cs@sunfounder.com.
+
+You can download the code package for the SunFounder Uno R4 Basic Kit from the following link:
+
+* :download:`SunFounder Uno R4 Basic Kit <https://github.com/sunfounder/r4-basic-kit/archive/refs/heads/main.zip>`
+* Or check out the code at |link_code_github|.
+
+If you have any questions, please send an email to service@sunfounder.com and we will respond as soon as possible.
 
 .. toctree::
    :maxdepth: 2
 
+   About this Kit <self>
    components/component_introduction
    arduino_start/get_start
    download_code_add_lib

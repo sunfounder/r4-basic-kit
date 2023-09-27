@@ -17,9 +17,10 @@
 
 # -- Project information -----------------------------------------------------
 import sphinx_rtd_theme
+import time  ###
 
 project = 'SunFounder R4 Basic Kit'
-copyright = '2021, SunFounder'
+copyright = f'{time.localtime().tm_year}, SunFounder'  ###
 author = 'www.sunfounder.com'
 
 
@@ -110,5 +111,10 @@ rst_epilog = """
 .. |link_download_arduino| raw:: html
 
     <a href="https://www.arduino.cc/en/software#future-version-of-the-arduino-ide" target="_blank">Arduino IDE 2.0.0 Page</a>
+
+.. |link_code_github| raw:: html
+
+    <a href="https://github.com/sunfounder/r4-basic-kit" target="_blank">SunFounder Uno R4 Basic Kit - GitHub</a>
+  
 
 """

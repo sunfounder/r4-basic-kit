@@ -9,6 +9,13 @@ Whether you are a beginner or an experienced Arduino enthusiast, this chapter pr
 enhance your knowledge and skills with the Arduino Uno R4 Minima board, enabling you to unleash your creativity 
 and bring your project ideas to life.
 
+You can download the code package for the SunFounder Uno R4 Basic Kit from the following link:
+
+You can download the code package for the SunFounder Uno R4 Basic Kit from the following link:
+
+* :download:`SunFounder Uno R4 Basic Kit <https://github.com/sunfounder/r4-basic-kit/archive/refs/heads/main.zip>`
+* Or check out the code at |link_code_github|.
+
 .. toctree::
     :maxdepth: 1
 
