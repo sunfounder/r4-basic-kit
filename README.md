@@ -17,6 +17,8 @@ The Arduino Uno R4 Basic Kit is an all-inclusive package designed for enthusiast
 
 <a id="update"></a>
 ## Update:
+2023-9-27:
+ - Modify all code links
 
 2023-9-27:
  - Main modifications to install Arduino IDE, related usage tutorials, and library installation.

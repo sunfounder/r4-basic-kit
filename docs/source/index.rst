@@ -25,7 +25,6 @@ If you have any questions, please send an email to service@sunfounder.com and we
    About this Kit <self>
    components/component_introduction
    arduino_start/get_start
-   download_code_add_lib
    projects/projects
    thank-learning
 

@@ -160,7 +160,7 @@ Comment is very useful in programming, and several common uses are listed below.
 Commment ``/**/``
 ------------------
 
-Same as ``//`` for comments. This type of comment can be more than one line long, and once the compiler reads ``/``, it ignores anything that follows until it encounters ``/``.
+Same as ``//`` for comments. This type of comment can be more than one line long, and once the compiler reads ``/*``, it ignores anything that follows until it encounters ``*/``.
 
 Example 1:
 

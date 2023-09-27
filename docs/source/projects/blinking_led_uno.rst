@@ -51,33 +51,10 @@ Then plug the board into the computer with a 5V USB cable.
 
 **Step 2**: Open the ``Lesson_1_Blinking_LED.ino`` code file in the path of ``r4-basic-kit-main\Code\Lesson_1_Blinking_LED``
 
-**Step 3:** Select the Board and Port
+**Step 3:** Select the **Board** and **Port.**
 
-Before uploading the code, you need to select the **Board** and
-**Port**. Click **Tools** -> **Board** and select **Arduino/Genuino
-Uno**.
+**Step 4:** Upload the sketch to the board.
 
-.. image:: img/image52.png
-   :align: center
-
-Then select **Tools** -> **Port**. Your port should be different from
-mine.
-
-.. image:: img/image53.png
-   :align: center
-
-**Step 4:** Upload the sketch to the SunFounder Uno board
-
-Click the **Upload** icon to upload the code to the control board.
-
-.. image:: img/image54.png
-   :align: center
-
-If "Done uploading" appears at the bottom of the window, it means the
-sketch has been successfully uploaded.
-
-.. image:: img/image55.png
-   :align: center
 
 You should now see the LED blinking.
 
@@ -87,7 +64,8 @@ Code
 
 .. raw:: html
 
-    <iframe src=https://create.arduino.cc/editor/sunfounder01/e074c00b-6edf-461a-9d6e-38c20d6da95a/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+    <iframe src=https://create.arduino.cc/editor/sunfounder01/4ed2849e-e078-44cd-a839-6ee5d0e93e03/preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+
 
 Code Analysis
 ------------------

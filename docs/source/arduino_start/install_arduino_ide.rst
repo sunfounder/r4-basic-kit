@@ -1,7 +1,7 @@
 .. _install_arduino:
 
-Download and Install Arduino IDE(Important)
-===================================================
+Download and Install Arduino IDE 2.0
+========================================
 
 The Arduino IDE, known as Arduino Integrated Development Environment, provides all the software support needed to complete an Arduino project. It is a programming software specifically designed for Arduino, provided by the Arduino team, that allows us to write programs and upload them to the Arduino board. 
 
