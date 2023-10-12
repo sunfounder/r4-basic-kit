@@ -39,7 +39,7 @@ If you want to know more about potentiometer, refer to: `Potentiometer - Wikiped
 **Example**
 
 
-* :ref:`photoresistor_uno` (R4 Minima Board Project)
+* :ref:`potentiometer_uno` (R4 Minima Board Project)
 
 
 
