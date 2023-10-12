@@ -1,13 +1,13 @@
 .. _photoresistor_uno:
 
-Lesson 9 Photo resistor
+Lesson 9 Photoresistor
 =============================
 
 Introduction
 ---------------------
 
 In this lesson, you will learn to how to measure light intensity using a
-photo resistor. The resistance of a photo resistor changes with incident
+photoresistor. The resistance of a photoresistor changes with incident
 light intensity. If the light intensity gets higher, the resistance
 decreases; if it gets lower, the resistance increases.
 
@@ -43,7 +43,7 @@ Experimental Procedures
 
 **Step 4:** Upload the sketch to the board.
 
-Now, shine some light on the photo resistor, and you will see several
+Now, shine some light on the photoresistor, and you will see several
 LEDs light up. Shine more light and you will see more LEDs light up.
 When you place it in a dark environment, all the LEDs will go out.
 
